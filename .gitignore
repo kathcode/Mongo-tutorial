@@ -1,0 +1,13 @@
+# Node modules #
+######################
+node_modules
+
+# Logs and databases #
+######################
+*.log
+*package-lock.json
+
+# OS generated files #
+######################
+.DS_Store
+._*

@@ -1,0 +1,20 @@
+{
+  "name": "learning-mongo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon --exec 'mocha -R min'"
+  },
+  "author": "kathcode - Catalina Meneses",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^6.1.4",
+    "mongoose": "^5.5.14",
+    "nodemon": "^1.19.1"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "description": ""
+}
